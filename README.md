@@ -1,0 +1,1 @@
+FurEver Pets is a modern, responsive website for a petcare service provider that offers grooming, training, adoption, and veterinary care. Designed with pet lovers in mind, it combines clean aesthetics with user-friendly navigation to promote pet wellness and community engagement.
